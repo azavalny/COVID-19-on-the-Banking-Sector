@@ -16,3 +16,5 @@ ___
 *These Banking and Financial Services Corporations were chosen primarily because they showed the most change in recent times*
 
 
+# You can open up the Juypter notebook file directly in Github to view all the graphs and code 
+**(although if you want to edit and run your edits, you'll need Juypter notebook obviously), and I've also added a python file**
